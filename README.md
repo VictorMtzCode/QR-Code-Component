@@ -1,6 +1,6 @@
 <h1 id="title">QR Code Component</h1>
 
-<p id="description">A FrontendMentor challenge built with HTML and CSS. The challenge was to build out the QR code component and get it looking as close to the design as possible.</p>
+<p id="description">A FrontendMentor challenge built with HTML and CSS. The challenge was to build out the QR Code Component and get it looking as close to the design as possible.</p>
 
 <h2>🚀 Demo</h2>
 
